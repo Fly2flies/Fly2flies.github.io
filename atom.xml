@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chou Fly&#39;s Blog</title>
+  
+  <subtitle>Welcome~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fly2flies.github.io/"/>
+  <updated>2020-10-15T13:55:39.988Z</updated>
+  <id>https://fly2flies.github.io/</id>
+  
+  <author>
+    <name>Fly</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>MS_TCN++:用于动作分割的多阶段时序卷积网络</title>
+    <link href="https://fly2flies.github.io/2020/10/15/ms-tcn/"/>
+    <id>https://fly2flies.github.io/2020/10/15/ms-tcn/</id>
+    <published>2020-10-15T13:31:45.000Z</published>
+    <updated>2020-10-15T13:55:39.988Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;MS-TCN++: Multi-Stage TCN for Action Segmentation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TPAMI2020        &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="视频理解" scheme="https://fly2flies.github.io/tags/%E8%A7%86%E9%A2%91%E7%90%86%E8%A7%A3/"/>
+    
+      <category term="TPAMI" scheme="https://fly2flies.github.io/tags/TPAMI/"/>
+    
+      <category term="时序卷积神经网络" scheme="https://fly2flies.github.io/tags/%E6%97%B6%E5%BA%8F%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十大经典排序算法整理汇总（附代码）</title>
+    <link href="https://fly2flies.github.io/2020/02/16/sort-algorithms/"/>
+    <id>https://fly2flies.github.io/2020/02/16/sort-algorithms/</id>
+    <published>2020-02-16T07:09:23.000Z</published>
+    <updated>2020-10-10T06:01:27.366Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;每日算法！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="编程算法" scheme="https://fly2flies.github.io/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="leetcode" scheme="https://fly2flies.github.io/tags/leetcode/"/>
+    
+      <category term="算法" scheme="https://fly2flies.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+</feed>
