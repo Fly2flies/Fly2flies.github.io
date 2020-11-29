@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://fly2flies.github.io/"/>
-  <updated>2020-10-15T13:55:39.988Z</updated>
+  <updated>2020-11-29T03:34:32.876Z</updated>
   <id>https://fly2flies.github.io/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>CVPR2018_Tips_For_ImageQA</title>
+    <link href="https://fly2flies.github.io/2020/11/29/cvpr2018-tips-for-imageqa/"/>
+    <id>https://fly2flies.github.io/2020/11/29/cvpr2018-tips-for-imageqa/</id>
+    <published>2020-11-29T03:32:45.000Z</published>
+    <updated>2020-11-29T03:34:32.876Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge&lt;/p&gt;
+&lt;p&gt;CVPR2018        &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="视觉-语言" scheme="https://fly2flies.github.io/categories/%E8%A7%86%E8%A7%89-%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="ImageQA" scheme="https://fly2flies.github.io/tags/ImageQA/"/>
+    
+      <category term="VQA" scheme="https://fly2flies.github.io/tags/VQA/"/>
+    
+      <category term="CVPR" scheme="https://fly2flies.github.io/tags/CVPR/"/>
+    
+  </entry>
+  
+  <entry>
     <title>MS_TCN++:用于动作分割的多阶段时序卷积网络</title>
     <link href="https://fly2flies.github.io/2020/10/15/ms-tcn/"/>
     <id>https://fly2flies.github.io/2020/10/15/ms-tcn/</id>
     <published>2020-10-15T13:31:45.000Z</published>
-    <updated>2020-10-15T13:55:39.988Z</updated>
+    <updated>2020-11-06T03:16:51.076Z</updated>
     
     <summary type="html">
     

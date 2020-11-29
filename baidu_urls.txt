@@ -1,2 +1,3 @@
+https://fly2flies.github.io/2020/11/29/cvpr2018-tips-for-imageqa/
 https://fly2flies.github.io/2020/10/15/ms-tcn/
 https://fly2flies.github.io/2020/02/16/sort-algorithms/
